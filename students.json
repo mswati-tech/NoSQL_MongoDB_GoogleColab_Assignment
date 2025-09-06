@@ -1,0 +1,114 @@
+[
+    {
+        "studentID": 1,
+        "name": "Amit Sharma",
+        "course": "Computer Science",
+        "marks": 192,
+        "city": "Delhi",
+        "email": "amit547.sharma@example.com"
+    },
+    {
+        "studentID": 2,
+        "name": "Priya Verma",
+        "course": "Mathematics",
+        "marks": 91,
+        "city": "Mumbai",
+        "email": "priya.verma@example.com"
+    },
+    {
+        "studentID": 3,
+        "name": "Rohit Kumar",
+        "course": "Physics",
+        "marks": 76,
+        "city": "Bangalore",
+        "email": "rohit.kumar@example.com"
+    },
+    {
+        "studentID": 4,
+        "name": "Neha Singh",
+        "course": "Chemistry",
+        "marks": 65,
+        "city": "Lucknow",
+        "email": "neha.singh@example.com"
+    },
+    {
+        "studentID": 5,
+        "name": "Karan Patel",
+        "course": "Computer Science",
+        "marks": 168,
+        "city": "Ahmedabad",
+        "email": "karan.patel@example.com"
+    },
+    {
+        "studentID": 6,
+        "name": "Simran Kaur",
+        "course": "Biology",
+        "marks": 88,
+        "city": "Chandigarh",
+        "email": "simran.kaur@example.com"
+    },
+    {
+        "studentID": 7,
+        "name": "Aditya Mehra",
+        "course": "Mathematics",
+        "marks": 72,
+        "city": "Delhi",
+        "email": "aditya.mehra@example.com"
+    },
+    {
+        "studentID": 8,
+        "name": "Sneha Reddy",
+        "course": "Computer Science",
+        "marks": 205,
+        "city": "Hyderabad",
+        "email": "sneha.reddy@example.com"
+    },
+    {
+        "studentID": 9,
+        "name": "Arjun Nair",
+        "course": "Physics",
+        "marks": 43,
+        "city": "Kochi",
+        "email": "arjun.nair@example.com"
+    },
+    {
+        "studentID": 11,
+        "name": "Rahul Das",
+        "course": "Biology",
+        "marks": 60,
+        "city": "Kolkata",
+        "email": "rahul.das@example.com"
+    },
+    {
+        "studentID": 12,
+        "name": "Meena Joshi",
+        "course": "Mathematics",
+        "marks": 84,
+        "city": "Pune",
+        "email": "meena.joshi@example.com"
+    },
+    {
+        "studentID": 13,
+        "name": "Deepak Yadav",
+        "course": "Physics",
+        "marks": 78,
+        "city": "Delhi",
+        "email": "deepak.yadav@example.com"
+    },
+    {
+        "studentID": 14,
+        "name": "Anjali Rao",
+        "course": "Computer Science",
+        "marks": 165,
+        "city": "Bangalore",
+        "email": "anjali.rao@example.com"
+    },
+    {
+        "studentID": 15,
+        "name": "Vikram Singh",
+        "course": "Chemistry",
+        "marks": 92,
+        "city": "Lucknow",
+        "email": "vikram.singh@example.com"
+    }
+]
